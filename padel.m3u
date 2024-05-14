@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="SuperTennis2" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" group-title="Italy",SuperTennis2
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd?organizationId=15209&suiteItemId=53584
+#EXTINF:-1 tvg-name="SuperTennisPadel" tvg-logo="https://hbbtv.persidera.it/image/image_gallery?img_id=57557" tvg-id="SuperTennis.it" group-title="Italy",SuperTennisPadel
+https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd?organizationId=15209&suiteItemId=52866
