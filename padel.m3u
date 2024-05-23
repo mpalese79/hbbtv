@@ -1,13 +1,13 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="SuperTennisHD.it" tvg-chno="53" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH1
+#EXTM3U url-tvg="http://www.epgitalia.tv/gzip, http://www.epg-guide.com/it.gz"
+#EXTINF:-1 tvg-id="SuperTennis HD" tvg-chno="53" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd?organizationId=15209&suiteItemId=52866
-#EXTINF:-1 tvg-id="SuperTennisHD.it" tvg-chno="54" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH2
+#EXTINF:-1 tvg-id="SuperTennis HD" tvg-chno="54" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd?organizationId=15209&suiteItemId=52866
-#EXTINF:-1 tvg-id="SuperTennisHD.it" tvg-chno="55" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH3
+#EXTINF:-1 tvg-id="SuperTennis HD Streaming" tvg-chno="55" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH3
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd?organizationId=15209&suiteItemId=52866
-#EXTINF:-1 tvg-id="SuperTennisHD.it" tvg-chno="56" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH4
+#EXTINF:-1 tvg-id="SuperTennis HD Streaming" tvg-chno="56" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd?organizationId=15209&suiteItemId=52866
