@@ -11,6 +11,6 @@ https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifes
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="56" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnm10-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd?organizationId=15209&suiteItemId=52866
-#EXTINF:-1 tvg-id="trmh24" tvg-chno="57" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kCe13UYanjXvSffpr600Luj3SyISuz-xvSRn7fwrVuq4A" group-title="Potenza", trmh24 
+#EXTINF:-1 tvg-id="TestMichu" tvg-chno="57" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kCe13UYanjXvSffpr600Luj3SyISuz-xvSRn7fwrVuq4A" group-title="TestMichu", TestMichu 
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://anym3u8player.com/youtube.php/id/6657879755253.m3u8
+https://acdn.ak-stream-videoplatform.sky.it/hls/2025/06/23/1019054/master/720p/stream.m3u8
