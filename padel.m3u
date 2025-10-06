@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="http://epg-guide.com/dttsat.xml"
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="53" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH1
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streamcdnmp1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd?organizationId=60542&amp;suiteItemId=53584
+https://streamcdnp1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel1/manifest.mpd?organizationId=60542&amp;suiteItemId=53584
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="54" tvg-logo="https://i.imgur.com/GzsPlbX.png" group-title="SuperTennis",SuperTennis CH2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://streamcdnp1-421b2081187a40368f24e4fb496bfc26.msvdn.net/channel2/manifest.mpd?organizationId=60542&amp;suiteItemId=53584
